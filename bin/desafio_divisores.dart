@@ -13,7 +13,7 @@ void main() {
 int somaDivisores3ou5(int numeroLimite) {
   int soma = 0;
 
-  for (var i = 2; i < numeroLimite; i++) {
+  for (var i = 3; i < numeroLimite; i++) {
     if (i % 3 == 0 || i % 5 == 0) {
       soma += i;
     }
