@@ -12,13 +12,13 @@ Um exemplo de uso: caso o usuário digite como entrada o número 10, o programa 
 
 1. **Clone o Repositório:**
 
-   ```bash
-   git clone https://github.com/ericarodrigs/desafio_divisores.git
+   ```
+   git clone https://github.com/ericarodrigs/desafio-divisores.git
    ```
 
 2. **Navegue até o Diretório do Projeto:**
-    ```bash
-    cd desafio_divisores
+    ```
+    cd desafio-divisores
     ```
 3. **Execute o Projeto:**
     ```
